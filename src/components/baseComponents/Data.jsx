@@ -1,0 +1,156 @@
+const Projects = [
+  {
+    id: "1",
+    name: "HealthCare",
+    description:
+      "HealthHub is a basic placeholder healthcare webpage built using HTML CSS Bootstrap5 and SCSS .This initiative offers a fundamental blueprint for individuals aspiring to construct a simple healthcare website with a responsive layout and refined styling.",
+    githubLink: "https://github.com/mani2206/Health-Care",
+    demoLink: "https://health-care-omega-smoky.vercel.app/",
+    category: "UI SITE",
+  },
+  {
+    id: "2",
+    name: "Form",
+    description:
+      "Form web page page basic placeholder built using HTML CSS Bootstrap5 SCSS jquery .This initiative offers a fundamental blueprint for individuals aspiring to construct a simple Form  website with a responsive layout and refined styling.",
+    githubLink: "https://github.com/mani2206/Form_Table_jquery",
+    demoLink: "https://form-table-jquery.vercel.app/",
+    category: "JQUERY",
+  },
+  {
+    id: "3",
+    name: "Marketing",
+    description:
+      "Marketing is a basic placeholder Marketing webpage built using HTML Bootstrap5 SCSS  .This initiative offers a fundamental blueprint for individuals aspiring to construct a simple Marketing website with a responsive layout and refined styling.",
+    githubLink: "https://github.com/mani2206/Responsive_Web_page",
+    demoLink: "https://responsive-web-page-omega.vercel.app/",
+    category: "UI SITE",
+  },
+  {
+    id: "4",
+    name: "CRUD With API",
+    description:
+      "ReactJs CRUD Application webpage built using HTML Bootstrap5 SCSS  ReactJs .This initiative offers a fundamental blueprint for individuals aspiring to construct a simple CRUD website with a responsive layout and refined styling.",
+    githubLink: "https://github.com/mani2206/CRUD_with_API",
+    demoLink: "https://crud-with-api-chi.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "5",
+    name: "CONTACT FORM",
+    description:
+      "Contact Form webpage built using HTML Bootstrap5 SCSS Javascript This initiative offers a fundamental blueprint for individuals aspiring to construct a simple CONTACT FORM website with a responsive layout and refined styling.",
+    githubLink: "https://github.com/mani2206/Contact_Form-JS-",
+    demoLink: "https://contact-form-js-tau.vercel.app/",
+    category: "JAVASCRIPT",
+  },
+  {
+    id: "6",
+    name: "Calculator",
+    description:
+      "Calculator webpage built using HTML Bootstrap5 SCSS Javascript This initiative offers a fundamental blueprint for individuals aspiring to construct a simple Calculator website with a responsive layout and refined styling",
+    githubLink: "https://github.com/mani2206/Calculator_js",
+    demoLink: "https://calculator-js-sand.vercel.app/",
+    category: "JAVASCRIPT",
+  },
+  {
+    id: "7",
+    name: "Quiz",
+    description:
+      "Quiz webpage built using HTML Bootstrap5 SCSS Javascript This initiative offers a fundamental blueprint for individuals aspiring to construct a simple Quiz website with a responsive layout and refined styling",
+    githubLink: "https://github.com/mani2206/Quiz_javascript/tree/main/Quiz",
+    demoLink: "https://quiz-javascript-five.vercel.app/",
+    category: "JAVASCRIPT",
+  },
+  {
+    id: "8",
+    name: "Web Page",
+    description:
+      " webpage built using HTML Bootstrap5 SCSS  This initiative offers a fundamental blueprint for individuals aspiring to construct a website with a responsive layout and refined styling",
+    githubLink: "https://github.com/mani2206/Sass_webPagehttps://github.com/mani2206/Sass_webPage",
+    demoLink: "https://sass-web-page-lemon.vercel.app/",
+    category: "UI SITE",
+  },
+  {
+    id: "9",
+    name: "New Task",
+    description: "In progress",
+    githubLink: "https://github.com/mani2206",
+    demoLink: "",
+    category: "IN PROGRESS",
+  },
+  {
+    id: "10",
+    name: "lazy-loading-react-query",
+    description: "webpage built using HTML ReactJs REACTQUERY",
+    githubLink: "https://github.com/mani2206/Lazy_Loading_ReactQuery",
+    demoLink: "https://lazy-loading-react-query.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "11",
+    name: "Slicing Task",
+    description: "webpage built using HTML ReactJs REACTQUERY",
+    githubLink: "https://github.com/mani2206/Slicing_Tasj-Reactjs",
+    demoLink: "https://slicing-tasj-reactjs.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "12",
+    name: "CRUD_REACTJS",
+    description: "webpage built using HTML ReactJs",
+    githubLink: "https://github.com/mani2206/CRUD_ReactJs-LocalStorage-",
+    demoLink: "https://crud-react-js-local-storage.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "13",
+    name: "FindColor",
+    description: "webpage built using HTML ReactJs",
+    githubLink: "https://github.com/mani2206/Find_color-Reactjs-",
+    demoLink: "https://find-color-reactjs.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "14",
+    name: "CRUD_Task2",
+    description: "webpage built using HTML ReactJs",
+    githubLink: "https://github.com/mani2206/CRUD_Operation-ReactJs-",
+    demoLink: "https://crud-operation-react-js-eight.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "15",
+    name: "Traffic_Light",
+    description: "webpage built using HTML CSS and Javascript",
+    githubLink: "https://github.com/mani2206/Traffic_light_Js",
+    demoLink: "https://traffic-light-js.vercel.app//",
+    category: "JAVASCRIPT",
+  },
+  {
+    id: "16",
+    name: "Infinite_scroll",
+    description: "webpage built using HTML CSS and Javascript",
+    githubLink: "https://github.com/mani2206/Infinite_Scroll-Javascript-",
+    demoLink: "https://infinite-scroll-javascript--two.vercel.app/",
+    category: "JAVASCRIPT",
+  },
+  {
+    id: "17",
+    name: "DashBoard",
+    description: "webpage built using HTML CSS and ReactJs",
+    githubLink: "https://github.com/mani2206/DashBoard_Reactjs",
+    demoLink: "https://dash-board-reactjs.vercel.app/",
+    category: "REACT JS",
+  },
+  {
+    id: "18",
+    name: "DashBoard",
+    description: "webpage built using HTML CSS and ReactJs",
+    githubLink: "https://github.com/mani2206/DashBoard_Reactjs",
+    demoLink: "https://dash-board-reactjs.vercel.app/",
+    category: "REACT JS",
+  },
+];
+
+export default Projects;
