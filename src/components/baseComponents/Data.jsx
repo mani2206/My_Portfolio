@@ -145,10 +145,10 @@ const Projects = [
   },
   {
     id: "18",
-    name: "DashBoard",
-    description: "webpage built using HTML CSS and ReactJs",
-    githubLink: "https://github.com/mani2206/DashBoard_Reactjs",
-    demoLink: "https://dash-board-reactjs.vercel.app/",
+    name: "Wave Animation",
+    description: "webpage built using HTML TailwindCSS and ReactJs",
+    githubLink: "https://github.com/mani2206/wave_animation-Reactjs-",
+    demoLink: "https://wave-animation-reactjs.vercel.app/",
     category: "REACT JS",
   },
 ];
