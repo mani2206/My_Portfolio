@@ -78,6 +78,7 @@ function About({ imageSource }) {
     "Bootstrap",
     "JavaScript",
     "ReactJS",
+    "Angular Js"
     "React Router",
     "React Query",
     "Axios",
